@@ -1,0 +1,100 @@
+{
+  "id": "6e68aa49-6360-4cf1-b596-29b0d481ee2a",
+  "name": "Idyn App Management",
+  "publisher": "IDYN B.V.",
+  "version": "21.0.2.0",
+  "brief": "IDYN Library and monetization app",
+  "description": "Make API Calls, use helper functions and connect to idyn's apphub",
+  "privacyStatement": "https://www.idyn.nl/idyn-privacy-statement",
+  "EULA": "https://www.idyn.nl/docs/default-source/terms-and-conditions/idyn-eula",
+  "help": "https://help.idyn.nl/",
+  "url": "https://www.idyn.nl",
+  "logo": "Logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "21.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 11155289,
+      "to": 11155369
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "10.0",
+  "internalsVisibleTo": [
+    {
+      "id": "6768f780-e047-46f7-b80e-2fd2a8fe11d3",
+      "name": "Sendcloud - The all-in-one shipping platform",
+      "publisher": "IDYN B.V."
+    },
+    {
+      "id": "1b3790da-e8ba-4a11-92a9-c70e37b4f831",
+      "name": "Direct Banking",
+      "publisher": "IDYN B.V."
+    },
+    {
+      "id": "7c72e650-80ad-428e-a824-1d1fad8239ff",
+      "name": "Direct Banking IT",
+      "publisher": "IDYN B.V."
+    },
+    {
+      "id": "19c6b586-e4a7-4b78-b747-fe058c850abb",
+      "name": "Cobase Bank Connector IT",
+      "publisher": "IDYN B.V."
+    },
+    {
+      "id": "3fc31365-a0f3-4bee-b121-62afdd02436a",
+      "name": "Direct Banking Cobase",
+      "publisher": "IDYN B.V."
+    },
+    {
+      "id": "9e0ee02b-484d-4487-8d74-961ece2357c0",
+      "name": "ShipIT 365",
+      "publisher": "IDYN B.V."
+    },
+    {
+      "id": "2f5a3fe7-7d78-4685-bc00-633592e14b6a",
+      "name": "Idyn Payment App",
+      "publisher": "IDYN B.V."
+    },
+    {
+      "id": "78b99d35-c19d-4ff1-bfbd-24dedd0cc777",
+      "name": "Dino App",
+      "publisher": "IDYN B.V."
+    },
+    {
+      "id": "9e0ee02b-484d-4487-8d74-961ece2357c5",
+      "name": "ConnectIT 365",
+      "publisher": "IDYN B.V."
+    },
+    {
+      "id": "632e3804-4cbb-49b7-a151-f6424c32a29a",
+      "name": "ApproveIT 365",
+      "publisher": "IDYN B.V."
+    },
+    {
+      "id": "1b2f2e36-c25d-4fd1-afe1-68317e6009f6",
+      "name": "Idyn Recovery app",
+      "publisher": "IDYN B.V."
+    },
+    {
+      "id": "dd18488e-2102-4b2b-b6b5-800efbdb9c48",
+      "name": "TickIT 365",
+      "publisher": "IDYN B.V."
+    },
+    {
+      "id": "ab84d7ae-cfeb-40a3-af95-60fa9f17a596",
+      "name": "PrintIT 365",
+      "publisher": "IDYN B.V."
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://help.idyn.nl",
+  "features": ["TranslationFile"],
+  "applicationInsightsConnectionString": "InstrumentationKey=2facd020-cef4-4d1d-8738-d1261fadb8ba;IngestionEndpoint=https://westeurope-3.in.applicationinsights.azure.com/",
+  "preprocessorSymbols": ["BC21"]
+}
